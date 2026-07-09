@@ -1,0 +1,5 @@
+{
+  "extends": ["@nova/nestjs-parent/typedoc.base.json"],
+  "entryPoints": ["src/**/*.ts"],
+  "out": "docs"
+}
